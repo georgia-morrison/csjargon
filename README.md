@@ -1,3 +1,3 @@
 # csjargon
 
-### A dictionary website for comouter science terms.
+### A dictionary website for computer science terms.
